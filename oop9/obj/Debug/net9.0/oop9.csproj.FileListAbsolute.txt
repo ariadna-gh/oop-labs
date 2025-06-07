@@ -1,0 +1,15 @@
+C:\Users\ARIADNA\oop projects\oop9\bin\Debug\net9.0\oop9.exe
+C:\Users\ARIADNA\oop projects\oop9\bin\Debug\net9.0\oop9.deps.json
+C:\Users\ARIADNA\oop projects\oop9\bin\Debug\net9.0\oop9.runtimeconfig.json
+C:\Users\ARIADNA\oop projects\oop9\bin\Debug\net9.0\oop9.dll
+C:\Users\ARIADNA\oop projects\oop9\bin\Debug\net9.0\oop9.pdb
+C:\Users\ARIADNA\oop projects\oop9\obj\Debug\net9.0\oop9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIADNA\oop projects\oop9\obj\Debug\net9.0\oop9.AssemblyInfoInputs.cache
+C:\Users\ARIADNA\oop projects\oop9\obj\Debug\net9.0\oop9.AssemblyInfo.cs
+C:\Users\ARIADNA\oop projects\oop9\obj\Debug\net9.0\oop9.csproj.CoreCompileInputs.cache
+C:\Users\ARIADNA\oop projects\oop9\obj\Debug\net9.0\oop9.sourcelink.json
+C:\Users\ARIADNA\oop projects\oop9\obj\Debug\net9.0\oop9.dll
+C:\Users\ARIADNA\oop projects\oop9\obj\Debug\net9.0\refint\oop9.dll
+C:\Users\ARIADNA\oop projects\oop9\obj\Debug\net9.0\oop9.pdb
+C:\Users\ARIADNA\oop projects\oop9\obj\Debug\net9.0\oop9.genruntimeconfig.cache
+C:\Users\ARIADNA\oop projects\oop9\obj\Debug\net9.0\ref\oop9.dll
