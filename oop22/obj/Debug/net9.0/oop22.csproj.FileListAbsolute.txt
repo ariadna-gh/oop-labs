@@ -1,0 +1,5 @@
+C:\Users\ARIADNA\oop projects\oop22\obj\Debug\net9.0\oop22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIADNA\oop projects\oop22\obj\Debug\net9.0\oop22.AssemblyInfoInputs.cache
+C:\Users\ARIADNA\oop projects\oop22\obj\Debug\net9.0\oop22.AssemblyInfo.cs
+C:\Users\ARIADNA\oop projects\oop22\obj\Debug\net9.0\oop22.csproj.CoreCompileInputs.cache
+C:\Users\ARIADNA\oop projects\oop22\obj\Debug\net9.0\oop22.sourcelink.json
