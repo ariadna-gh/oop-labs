@@ -1,0 +1,15 @@
+C:\Users\ARIADNA\oop projects\oop24\bin\Debug\net9.0\oop24.exe
+C:\Users\ARIADNA\oop projects\oop24\bin\Debug\net9.0\oop24.deps.json
+C:\Users\ARIADNA\oop projects\oop24\bin\Debug\net9.0\oop24.runtimeconfig.json
+C:\Users\ARIADNA\oop projects\oop24\bin\Debug\net9.0\oop24.dll
+C:\Users\ARIADNA\oop projects\oop24\bin\Debug\net9.0\oop24.pdb
+C:\Users\ARIADNA\oop projects\oop24\obj\Debug\net9.0\oop24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIADNA\oop projects\oop24\obj\Debug\net9.0\oop24.AssemblyInfoInputs.cache
+C:\Users\ARIADNA\oop projects\oop24\obj\Debug\net9.0\oop24.AssemblyInfo.cs
+C:\Users\ARIADNA\oop projects\oop24\obj\Debug\net9.0\oop24.csproj.CoreCompileInputs.cache
+C:\Users\ARIADNA\oop projects\oop24\obj\Debug\net9.0\oop24.sourcelink.json
+C:\Users\ARIADNA\oop projects\oop24\obj\Debug\net9.0\oop24.dll
+C:\Users\ARIADNA\oop projects\oop24\obj\Debug\net9.0\refint\oop24.dll
+C:\Users\ARIADNA\oop projects\oop24\obj\Debug\net9.0\oop24.pdb
+C:\Users\ARIADNA\oop projects\oop24\obj\Debug\net9.0\oop24.genruntimeconfig.cache
+C:\Users\ARIADNA\oop projects\oop24\obj\Debug\net9.0\ref\oop24.dll
